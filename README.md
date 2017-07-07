@@ -21,7 +21,7 @@ Arduino Starter Project for Student
     - 2.2K
     - 4.7K
     - 22K
-  1. 콘덴서 
+  10. 콘덴서 
     - 전해콘덴서 10UF            3개
     - 전해콘덴서 100UF          3개
     - 전해콘덴서 47UF            3개
